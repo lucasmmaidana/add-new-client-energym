@@ -1,3 +1,5 @@
+// Probably the messiest code you'll ever seen
+
 $(document).ready(function() {
 
   $("#fingerprint").click(function() {
